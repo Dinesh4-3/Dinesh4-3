@@ -63,5 +63,4 @@
 
 <p align="center">
   
-  <img align=top flex-grow=1 src="https://leetcode.com/u/dinesh107/"/>  
-</p>
+ <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/dinesh107?theme=dark&font=Nunito&ext=heatmap" />  </p>
